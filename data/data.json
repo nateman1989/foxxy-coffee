@@ -1,0 +1,45 @@
+{
+    "catalog": [
+        {
+            "item": "Creamy Milk Coffee",
+            "description": "$4.99.Succulent Colombian Roast with Milk Cream Topping",
+            "image": "images/logo.png"
+    },
+        {
+            "item": "Coffee & Biscuit",
+            "date": "$6.00.Dark Roast Ethiopian Blend served with Biscotti Biscuit",
+            "image": "images/logo.png"
+    },
+        {
+            "item": "Cappuccino",
+            "date": "$2.99. Creamy Cappuccino with Vanilla Flavor",
+            "image": "images/logo.png"
+    },
+        {
+            "item": "Cappuccino",
+            "date": "$2.99. Creamy Cappuccino with Vanilla Flavor",
+            "image": "images/logo.png"
+    },
+        {
+            "item": "Cappuccino",
+            "date": "$2.99. Creamy Cappuccino with Vanilla Flavor",
+            "image": "images/logo.png"
+    },
+
+        {
+            "item": "Cappuccino",
+            "date": "$2.99. Creamy Cappuccino with Vanilla Flavor",
+            "image": "images/logo.png"
+    },
+        {
+            "item": "Cappuccino",
+            "date": "$2.99. Creamy Cappuccino with Vanilla Flavor",
+            "image": "images/logo.png"
+    },
+        {
+            "item": "Cappuccino",
+            "date": "$2.99. Creamy Cappuccino with Vanilla Flavor",
+            "image": "images/logo.png"
+    }
+  ]
+}

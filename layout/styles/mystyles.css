@@ -1,0 +1,326 @@
+@import url("fontawesome-4.5.0.min.css");
+@import url("framework.css");
+@import url("layout.css");
+@import url('https://fonts.googleapis.com/css?family=Rubik');
+@import url('https://fonts.googleapis.com/css?family=Merienda+One');
+
+
+* {
+    box-sizing: border-box !important;
+
+}
+
+body {
+    margin: 0 auto;
+    width: auto !important;
+
+}
+
+#logo {
+    width: 250px;
+    height: 50px;
+    float: left;
+    padding-right: 5em !important;
+
+}
+
+ul {
+    list-style-type: none !important;
+}
+
+#firsthead {
+    float: left !important;
+
+}
+
+.barista {
+    list-style-type: none !important;
+
+}
+
+#topbar p {
+    color: white;
+    font-size: 1.5em !important;
+
+}
+
+#firsthead h1 {
+    font-size: 4em !important;
+
+}
+
+.row0 {
+    background-color: #D2691E !important;
+
+}
+
+.row1 {
+    height: 12em;
+    background-color: #faf0e6 !important;
+
+}
+
+.row2 {
+    background-color: #faf0e6 !important;
+
+}
+
+.row2 a {
+    background-color: #faf0e6 !important;
+
+}
+
+.row4 {
+    background-color: #D2691E !important;
+
+
+}
+
+.row3 {
+    background-color: green;
+    /*The only way to make Change CSS Rules work is by deleting !important */
+
+}
+
+.row6 {
+    background-color: #D2691E;
+    height: 24em !important;
+
+}
+
+h1 {
+    font-family: 'Rubik', Georgia, sans-serif;
+    color: black !important;
+
+}
+
+
+h2,
+h3,
+h4 {
+    font-family: 'Rubik', Georgia, sans-serif !important;
+
+}
+
+p {
+    font-family: 'Rubik', Helvetica, sans-serif !important;
+
+}
+
+blockquote {
+    font-size: 2em !important;
+
+}
+
+.hashtags a {
+    color: black !important;
+
+}
+
+.hashtags a:hover {
+    color: blue !important;
+
+}
+
+address {
+    font-size: 2em;
+    color: white !important;
+
+}
+
+.phone {
+    font-size: 2em;
+    color: white !important;
+
+}
+
+.email {
+    font-size: 1.5em;
+    color: white !important;
+
+}
+
+.socials {
+    float: left;
+    padding: 1em !important;
+
+}
+
+.socials i {
+    font-size: 2em;
+    color: white !important;
+
+}
+
+.socials a:hover {
+    color: red !important;
+
+}
+
+
+#copyright {
+    line-height: 2em !important;
+
+}
+
+.small {
+    background-color: #D2691E !important;
+
+}
+
+input {
+    height: 4em;
+    width: 100%;
+    background-color: #2a6144 !important;
+
+}
+
+input {
+    color: white !important;
+
+}
+
+::placeholder {
+    /* Firefox, Chrome, Opera */
+    color: white !important;
+
+}
+
+:-ms-input-placeholder {
+    /* Internet Explorer 10-11 */
+    color: peachpuff !important;
+
+}
+
+::-ms-input-placeholder {
+    /* Microsoft Edge */
+    color: orange !important;
+
+}
+
+form button {
+    background-color: #2a6144;
+    color: white !important;
+
+}
+
+#slideAd {
+    width: 190px;
+    height: 85px;
+    background-color: #2a6144;
+    background-image: url('../../fox_head2.png');
+    background-repeat: no-repeat;
+    background-position: 10px center;
+    color: #fff;
+    border-top: 1px solid #fff;
+    border-left: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    padding: 20px 20px 10px 85px;
+    position: fixed;
+    bottom: 99px;
+    right: -235px;
+    text-transform: uppercase !important;
+
+}
+
+#slideAd p {
+    margin-left: 2em !important;
+
+}
+
+.cat_item {
+    width: 20%;
+    float: left;
+    text-align: center;
+    padding: 1em;
+    margin: 1em !important;
+
+}
+
+.cat_item img {
+    width: 100%;
+    height: auto !important;
+
+}
+
+@media screen and (max-width: 600px) {
+
+    .cat_item,
+    figure,
+    img {
+        width: 100% !important;
+
+    }
+}
+
+.shopping_cart {
+    float: right !important;
+
+}
+
+.shopping1 {
+    float: left;
+    padding: 2em !important;
+
+}
+
+.two-thirds {
+    width: 250px !important;
+
+}
+
+
+.giftcard_info img {
+    float: left;
+    padding-right: 1em !important;
+
+}
+
+
+.giftcard_info a {
+    color: black !important;
+
+}
+
+.bio {
+    float: left !important;
+
+
+}
+
+figure {
+    float: left !important;
+
+
+}
+
+.contact img {
+    width: 5em !important;
+
+}
+
+.contact li {
+    float: left;
+    list-style-type: none !important;
+
+}
+
+ul {
+    list-style-type: none !important;
+
+}
+
+.foxhead img {
+    width: 3em !important;
+
+}
+
+.contacts {
+    list-style-type: none !important;
+
+}
+
+
+.move {
+    width: 20em;
+}

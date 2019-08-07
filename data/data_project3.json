@@ -1,0 +1,36 @@
+{
+    "catalog": [
+        {
+            "item": "Creamy Milk Coffee",
+            "description": "$4.99. Succulent Colombian Roast with Milk Cream Topping",
+            "image": "../../images/creamy_coffee.jpg"
+    },
+        {
+            "item": "Coffee & Biscuit",
+            "description": "$6.00.Dark Roast Ethiopian Blend served with Biscotti Biscuit",
+            "image": "../../images/coffee_biscuit.jpg"
+    },
+        {
+            "item": "Cappuccino",
+            "description": "$2.99. Creamy Cappuccino with Vanilla Flavor",
+            "image": "../../images/cappucino.jpg"
+    },
+        {
+            "item": "Ethiopian Coffee Beans",
+            "description": "$5.00/ounce Freshly Imported Coffee beans from Addis Ababa",
+            "image": "../../images/coffee_beans.jpg"
+    },
+        {
+            "item": "Coffee Cake Combo",
+            "description": "$5.99 Delicious Coffee/Carrot cake served with Creamy Milk Coffee",
+            "image": "../../images/cake.jpg"
+    },
+
+        {
+            "item": "Raspberry Chocolate Cake",
+            "description": "$2.99. Tart Oven-Baked Raspberry Chocolate Cake",
+            "image": "../../images/strawberry.jpg"
+    }
+
+  ]
+}
