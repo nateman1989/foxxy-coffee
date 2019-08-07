@@ -1,2 +1,2 @@
-# foxxy-coffee.com
+# foxxy-coffee
 foxxy-coffee
