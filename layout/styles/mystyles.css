@@ -247,7 +247,7 @@ form button {
 
     .cat_item,
     figure,
-    img {
+    img, iframe {
         width: 100% !important;
 
     }
@@ -324,3 +324,11 @@ ul {
 .move {
     width: 20em;
 }
+
+
+iframe {
+    width: 100% !important;
+
+
+}
+
